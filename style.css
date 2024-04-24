@@ -260,6 +260,11 @@ section {
     right: -5rem;
     bottom: 2.5rem;
 }
+.arrow-up {
+    position: absolute;
+    left: -5rem;
+    bottom: 2.5rem;
+}
   
 .details-container {
     padding: 1.5rem;
